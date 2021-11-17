@@ -91,7 +91,7 @@ void draw() {
 
 
 
-public void back(int in){
+void back(int in){
 //  noStroke();
 //  fill(50,30,125,in); 
 //  rect(0,0,500,500);
