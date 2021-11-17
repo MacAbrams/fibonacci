@@ -91,20 +91,19 @@ void draw() {
 
 
 
-// public void back(int in){
-//   noStroke();
-//    fill(50,30,125,in); 
-//    rect(0,0,500,500);
-//    fill(155);
-//    stroke(155);
-//    for(int j=0;j<500;j+=10){
-//      //add random seed
-//       ellipse(500*cos(j),0,(sin(j*0.5)*0.1+cos(j+20))*100,(sin(j)*100)+cos(3*j)*50);
-//    }
-   
-//    fill(0,50,0,in);
-//    noStroke();
-//    rect(0,500,500,200);
+public void back(int in){
+//  noStroke();
+//  fill(50,30,125,in); 
+//  rect(0,0,500,500);
+//  fill(155);
+//  stroke(155);
+//  for(int j=0;j<500;j+=10){
+//    //add random seed
+//    ellipse(500*cos(j),0,(sin(j*0.5)*0.1+cos(j+20))*100,(sin(j)*100)+cos(3*j)*50);
+//  } 
+//  fill(0,50,0,in);
+//  noStroke();
+//  rect(0,500,500,200);
 
 
-// }
+}
