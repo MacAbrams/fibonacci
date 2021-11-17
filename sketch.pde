@@ -1,4 +1,4 @@
-// Lightning bolt;
+Lightning bolt;
 
 
 
