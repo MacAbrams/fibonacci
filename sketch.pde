@@ -1,4 +1,3 @@
-import zeus.pde;
 
 Lightning bolt;
 
