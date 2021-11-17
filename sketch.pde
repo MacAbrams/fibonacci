@@ -5,8 +5,8 @@ Lightning bolt;
 void setup() {
    size(500,700);
    frameRate(25);
-   // back(255);
-   // bolt= new Lightning((float)Math.random()*500,0,20,20,10);
+    back(255);
+    bolt= new Lightning((float)Math.random()*500,0,20,20,10);
 }
 int r = (int)Math.random()*80;
 int i=0;
