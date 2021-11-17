@@ -23,7 +23,7 @@ void draw() {
 }
 
 
-// class Lightning{
+ class Lightning{
 //   float x,y,dx,dy;
 //   int ran;
 //   Lightning[] nextgen;
@@ -79,7 +79,7 @@ void draw() {
 
 
 
-// }
+ }
 
 
 
@@ -91,7 +91,7 @@ void draw() {
 
 
 
-void back(int in){
+//void back(int in){
 //  noStroke();
 //  fill(50,30,125,in); 
 //  rect(0,0,500,500);
@@ -106,4 +106,4 @@ void back(int in){
 //  rect(0,500,500,200);
 
 
-}
+//}
