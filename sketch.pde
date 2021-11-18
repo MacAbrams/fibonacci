@@ -74,9 +74,9 @@ void setup() {
 // }
 
 
-void back(int in){
- noStroke();
- fill(50,30,125,in); 
+// void back(int in){
+//  noStroke();
+//  fill(50,30,125,in); 
 //  rect(0,0,500,500);
 //  fill(155);
 //  stroke(155);
@@ -87,4 +87,4 @@ void back(int in){
 //  fill(0,50,0,in);
 //  noStroke();
 //  rect(0,500,500,200);
-}
+// }
