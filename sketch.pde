@@ -74,9 +74,9 @@ void setup() {
 // }
 
 
-void back(int in){
+void back(int alpha){
 //  noStroke();
-//  fill(50,30,125,in); 
+//  fill(50,30,125,alpha); 
 //  rect(0,0,500,500);
 //  fill(155);
 //  stroke(155);
@@ -84,7 +84,7 @@ void back(int in){
 //    //add random seed
 //    ellipse(500*cos(j),0,(sin(j*0.5)*0.1+cos(j+20))*100,(sin(j)*100)+cos(3*j)*50);
 //  } 
-//  fill(0,50,0,in);
+//  fill(0,50,0,alpha);
 //  noStroke();
 //  rect(0,500,500,200);
 }
